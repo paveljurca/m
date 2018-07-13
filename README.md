@@ -71,6 +71,10 @@ mQuery wraps cURL requests around several Mediasite JSON URIs. Additionally it c
 - [ ] replace system cURL with [Mojo::UserAgent](https://metacpan.org/pod/Mojo::UserAgent)
 - [ ] implement login instead of storing auth session cookie (expires in 15 minutes)
 
+## SEE ALSO
+
+- [Mediasite_Transcoder_Uninstall.bat](https://gist.github.com/paveljurca/5af930983f2e9fd87a159db386efe6df)
+
 ## LICENSE
 
 Released into the public domain.
